@@ -10,4 +10,4 @@ of Principal Component Analysis course in Python.
 - week 1: 10/10
 - week 2: 10/10
 - week 3: 10/10
-- week 4: 9/10
+- week 4: 10/10
